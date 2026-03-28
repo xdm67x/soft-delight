@@ -19,11 +19,11 @@ that provide excellent contrast without causing eye strain.
 
 ### Soft DeLight (Light Theme)
 
-![Soft DeLight Light Theme](https://raw.githubusercontent.com/xdm67x/softdelight/main/images/light.png)
+![Soft DeLight Light Theme](https://raw.githubusercontent.com/xdm67x/soft-delight/main/images/light.png)
 
 ### Soft DeLight Dark Edition
 
-![Soft DeLight Dark Theme](https://raw.githubusercontent.com/xdm67x/softdelight/main/images/dark.png)
+![Soft DeLight Dark Theme](https://raw.githubusercontent.com/xdm67x/soft-delight/main/images/dark.png)
 
 ## Color Palette
 
