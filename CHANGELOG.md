@@ -2,6 +2,14 @@
 
 All notable changes to the Soft DeLight extension will be documented in this file.
 
+## [1.1.0] - 2026-03-28
+
+### Added
+- Add workflow to publish it automatically
+
+### Fixed
+- Images not visible on the marketplace
+
 ## [1.0.0] - 2024-03-28
 
 ### Added
