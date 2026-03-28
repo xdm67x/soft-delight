@@ -2,6 +2,14 @@
 
 All notable changes to the Soft DeLight extension will be documented in this file.
 
+## [1.1.1] - 2026-03-28
+
+### Fixed
+- Update images link + github link
+
+### Changed
+- Update changelog skill and bump version
+
 ## [1.1.0] - 2026-03-28
 
 ### Added
