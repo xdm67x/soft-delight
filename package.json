@@ -2,7 +2,7 @@
   "name": "softdelight",
   "displayName": "Soft DeLight",
   "description": "A comfortable light and dark theme for developers - easy on the eyes with vibrant, contrasting colors",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "publisher": "dm67x",
   "icon": "images/icon.png",
   "license": "MIT",
@@ -31,6 +31,11 @@
         "label": "Soft Delight",
         "uiTheme": "vs",
         "path": "./themes/Soft Delight-color-theme.json"
+      },
+      {
+        "label": "Soft DeLight Blue Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Soft DeLight Blue Edition-color-theme.json"
       },
       {
         "label": "Soft DeLight Dark Edition",

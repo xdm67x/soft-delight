@@ -6,8 +6,8 @@ that provide excellent contrast without causing eye strain.
 
 ## Features
 
-- **Two Beautiful Variants**: Light theme for daytime coding, Dark Edition for
-  nighttime sessions
+- **Three Beautiful Variants**: Light theme for daytime coding, Blue Edition for
+  a cool nighttime experience, and Dark Edition for a pure black theme
 - **Eye-Friendly Palette**: Soft, pastel-inspired colors that reduce eye fatigue
 - **Excellent Contrast**: Carefully tuned colors ensure readability without
   harsh contrasts
@@ -20,6 +20,10 @@ that provide excellent contrast without causing eye strain.
 ### Soft DeLight (Light Theme)
 
 ![Soft DeLight Light Theme](https://raw.githubusercontent.com/xdm67x/soft-delight/main/images/light.png)
+
+### Soft DeLight Blue Edition
+
+![Soft DeLight Blue Theme](https://raw.githubusercontent.com/xdm67x/soft-delight/main/images/blue.png)
 
 ### Soft DeLight Dark Edition
 
@@ -41,11 +45,25 @@ that provide excellent contrast without causing eye strain.
 | Properties    | Lavender    | `#4338CA` |
 | Comments      | Gray        | `#6B7280` |
 
-### Dark Edition
+### Blue Edition
 
 | Token Type    | Color          | Hex       |
 | ------------- | -------------- | --------- |
 | Background    | Deep Navy      | `#1A1A2E` |
+| Keywords      | Light Purple   | `#A78BFA` |
+| Strings       | Periwinkle     | `#818CF8` |
+| Functions     | Sky Blue       | `#7DD3FC` |
+| Types/Classes | Mint           | `#6EE7B7` |
+| Numbers       | Golden         | `#FBBF24` |
+| Operators     | Pink           | `#F472B6` |
+| Properties    | Light Lavender | `#A5B4FC` |
+| Comments      | Muted Gray     | `#6B7280` |
+
+### Dark Edition
+
+| Token Type    | Color          | Hex       |
+| ------------- | -------------- | --------- |
+| Background    | Deep Black     | `#141414` |
 | Keywords      | Light Purple   | `#A78BFA` |
 | Strings       | Periwinkle     | `#818CF8` |
 | Functions     | Sky Blue       | `#7DD3FC` |
@@ -63,7 +81,8 @@ that provide excellent contrast without causing eye strain.
 4. Click Install
 5. Select your preferred theme:
    - **Soft DeLight** - Light theme
-   - **Soft DeLight Dark Edition** - Dark theme
+   - **Soft DeLight Blue Edition** - Dark theme with blue tones
+   - **Soft DeLight Dark Edition** - Pure black theme
 
 ## Recommended Settings
 
@@ -90,7 +109,9 @@ Soft DeLight was designed to solve these issues:
 
 - **Light theme** uses a warm off-white background (`#FAF9F6`) instead of stark
   white
-- **Dark theme** uses a deep navy (`#1A1A2E`) instead of pure black
+- **Blue Edition** uses a deep navy (`#1A1A2E`) for a cool, calming experience
+- **Dark Edition** uses a pure black (`#141414`) for maximum contrast and OLED
+  screens
 - Colors are vibrant but never harsh—reds are replaced with warm oranges and
   pinks
 - Each token type has a distinct, recognizable color
