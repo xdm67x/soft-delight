@@ -1,0 +1,42 @@
+{
+  "name": "softdelight",
+  "displayName": "Soft DeLight",
+  "description": "A comfortable light and dark theme for developers - easy on the eyes with vibrant, contrasting colors",
+  "version": "1.0.0",
+  "publisher": "dm67x",
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "light theme",
+    "dark theme",
+    "soft",
+    "pastel",
+    "comfortable",
+    "eye strain"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dm67x/softdelight"
+  },
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soft Delight",
+        "uiTheme": "vs",
+        "path": "./themes/Soft Delight-color-theme.json"
+      },
+      {
+        "label": "Soft DeLight Dark Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Soft DeLight Dark Edition-color-theme.json"
+      }
+    ]
+  }
+}
