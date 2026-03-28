@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dm67x/softdelight"
+    "url": "https://github.com/xdm67x/softdelight"
   },
   "engines": {
     "vscode": "^1.110.0"
